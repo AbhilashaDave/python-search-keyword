@@ -27,7 +27,7 @@ dictonary = {}
 
 """
 Function: main
-Retun value: None
+Return value: None
 Inputs: None
 Description:
 call the function "listFiles" to check the keywords
@@ -46,7 +46,7 @@ def main():
 
 """
 Function: listFiles
-Retun value: None
+Return value: None
 Inputs: root_dir, keywordSearch
 Description:
 Do recursive walk through the root_dir and search for the keywords in text files
@@ -73,7 +73,7 @@ def listFiles (root_dir,keywordSearch):
 
 """
 Function: plotBarGraph
-Retun value: None
+Return value: None
 Inputs: dictonary
 Description:
 Plot the bar graph for the key value pair of dictonary
@@ -90,7 +90,7 @@ def plotBarGraph(dictonary):
 
 """
 Function: plotBarGraph
-Retun value: None
+Return value: None
 Inputs: dictonary
 Description:
 Plot the line graph for the key value pair of dictonary
